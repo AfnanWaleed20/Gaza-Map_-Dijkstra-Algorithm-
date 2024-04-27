@@ -1,1 +1,1 @@
-# Gaza-Map_-Dijkstra-Algorithm-
+# Gaza Map_Dijkstra Algorithm-
